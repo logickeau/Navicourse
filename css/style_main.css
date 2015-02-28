@@ -1,0 +1,91 @@
+#map_canvas {
+    height: 500px;
+    width:100%;
+    text-align: center;}
+#map_canvas img{max-width: inherit;}
+.error{
+    color:#000;
+    
+}
+
+.disclaimer{
+    text-align: left;
+    padding:20px;
+}
+
+#ex{
+   width:400px;
+   border:1px solid #566A45;
+   padding:10px;
+   margin-bottom:10px; 
+   margin-left:215px;
+}
+
+fieldset {
+    padding: 10px;
+    margin:0;
+    border: 1px solid #566A45;
+}
+
+#printIcons {
+    background-color: #88A764;
+    text-align: center;
+    margin-top:10px;
+    padding-left:300px;
+}
+
+
+.clearfix:before,
+.clearfix:after {
+  display: table;
+  content: " ";
+}
+
+.clearfix:after {
+  clear: both;
+}
+
+.pull-right {
+  float: right !important;
+}
+
+.pull-left {
+  float: left !important;
+}
+.inpoints{
+width: 185px;
+border: 1px solid #666;
+}
+
+.lanePoints{
+width: 110px;
+border: 1px solid #666;
+}
+.lsContainers{
+   width: 100%; 
+   height: 400px; 
+   overflow:scroll;
+   text-align: center;
+   }
+.lSolutions{
+   width: 100%; 
+   height: 400px; 
+   overflow:scroll;
+   text-align: center;
+   }
+.laneBlock{
+    width: 113px;
+}
+.laneDist {
+    font-size: 10px;
+}
+.solblock{
+    width: 113px;
+}
+.laneAnswer {
+    font-size: 14px;
+}
+.printIcons{
+    width: 100%;
+    text-align: center;
+}
