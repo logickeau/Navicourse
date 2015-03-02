@@ -1,1 +1,1 @@
-Navicourse
+Navicourse is a land Navigation Course generating program I created in PHP to simplify the land navigation course generation process. This application now powers the navicourse App at https://myleadersource.com/navi-course/.  
