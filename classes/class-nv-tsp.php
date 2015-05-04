@@ -5,7 +5,7 @@
  * @description This class is a calculator for the common "Travelling salesman" maths problem.
  *              It takes any number of coordinates and brute force calculates the shortest distance to travel to all those points.
  *              It doesn't do anything clever like forcing a starting / ending point, however this could easily be implemented..
- * @author      Orginal Author : Ross Scrivener  |  Edited by: Jean N. Pijeau <nick.pijeau@gmail.com>
+ * @author      Jean N. Pijeau <nick.pijeau@gmail.com>
  */
 class NV_Tsp
 {
